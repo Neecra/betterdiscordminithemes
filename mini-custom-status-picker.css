@@ -3,22 +3,13 @@
     width: 44px;
 }
 
-.description-3Cwkxk {
+.description-3Cwkxk, .status-3TYC5W {
     display: none;
 }
 
-.status-3TYC5W {
-    display: none;
-}
-
-.submenuContainer-3EVTeH {
+.submenuContainer-3EVTeH, .separator-1So4YB {
     display: none;
     visibility: hidden;
-}
-
-.separator-1So4YB {
-    visibility: hidden;
-    display: none;
 }
 
 .statusItem-2hiCNB {
